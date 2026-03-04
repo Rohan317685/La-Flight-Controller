@@ -8,6 +8,7 @@ I attached a render of what it can be used for :) Its meant for simple tiny dron
 ![Screenshot 2026-03-01 151021](https://github.com/user-attachments/assets/3791e226-70ef-47af-9d6b-881fbe4bcfeb)
 ![Screenshot 2026-03-01 210202](https://github.com/user-attachments/assets/3fb6c404-2b39-4dde-8eb3-a9a0f7223fb5)
 That is the schematic + pcb!
-Creidts to:
+Credits to:
+
 @Rohan for creating the render, schematic and repo
 @traffic person for routing the entire pcb and helping with technical issues!
